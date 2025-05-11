@@ -1,0 +1,13 @@
+{
+    "name": "EuroDollari Experimental",
+    "symbol": "EDX",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/choomchain/edx-token/main/assets/mainnet/HH19Y1Tq9na94hUhEQnQtnYdG7dGwP9RxiSyeN649sA5/logo.png",
+    "website": "https://choomchain.github.io/edx",
+    "description": "EDX is a cyber-financial experimental token built on Solana. Born from the ashes of the Eurodollari protocol, rebuilt for speed and precision.",
+    "tags": [
+        "defi",
+        "experimental",
+        "solana"
+    ]
+}
